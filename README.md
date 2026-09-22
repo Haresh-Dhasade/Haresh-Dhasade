@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full-Stack Developer from India | Building modern web apps with React, Node.js & MongoDB | Always learning
+💻 Computer Science Graduate from India | Python, SQL, Data Analytics, Power BI & Web Development | Building Practical Projects | Always Learning
 
 
 ## 🌐 Socials:
